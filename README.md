@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Samra-Fatima
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning PPC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m doing masters in Applied Data Science
+- 🌱 I’m currently exploring Amazon PPC to implement data analysis on huge datasets
+- 💞️ I’m looking to collaborate on automating bid optimizing, keywords analysis, pricing on amazon seller central using R/python. Also I am looking forward to build dashboards using tableau or PowerBI. 
+- 📫 Reach me on this link https://www.linkedin.com/in/samra-fatima-68a569136
 
-<!---
-Samra-Fatima/Samra-Fatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
